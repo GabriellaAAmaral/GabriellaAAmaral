@@ -18,5 +18,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e 
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
           
-https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif              
+ ![image](https://user-images.githubusercontent.com/104433713/189946843-dbfde90f-022b-41d2-9692-013c4346108f.png)
+           
           
