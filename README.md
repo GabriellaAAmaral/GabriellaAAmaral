@@ -13,6 +13,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+
 ![cat-computer](https://user-images.githubusercontent.com/104433713/189947530-92ece00f-7f7a-4add-a929-de214948268b.gif)
 
            
