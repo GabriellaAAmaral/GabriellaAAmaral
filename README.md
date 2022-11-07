@@ -2,7 +2,7 @@ Olá, me chamo Gabriella. 👋
 Bem-vindo(a) ao meu perfil do GitHub! 
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e fazendo cursos livres sobre programção web. 
-![octocat-1663075776481 (1)](https://user-images.githubusercontent.com/104433713/200387767-a4ca1345-b84a-482d-9bd8-e180e4c12f3b.png)
+![image](https://user-images.githubusercontent.com/104433713/200387948-3c043675-8f77-4d57-b355-c35d73eb21b6.png)
 
 
 <div>
