@@ -11,10 +11,12 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabriellaAAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
  </div>
+ <div float: "left"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+<div>
 
 ![Snake animation](https://github.com/GabriellaAAmaral/GabriellaAAmaral/blob/output/github-contribution-grid-snake.svg)
 
