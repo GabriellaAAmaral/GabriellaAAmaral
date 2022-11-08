@@ -10,7 +10,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e 
 
 </div>
 <div float: "left"
-![image](https://user-images.githubusercontent.com/104433713/200387948-3c043675-8f77-4d57-b355-c35d73eb21b6.png)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
