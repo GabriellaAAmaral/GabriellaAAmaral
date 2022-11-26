@@ -9,7 +9,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabriellaAAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
-<div float: "left"
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
@@ -26,4 +26,3 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e 
 <a href="https://www.linkedin.com/in/gabriella-amaral-6a51401a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
-![octocat-1663075776481](https://user-images.githubusercontent.com/104433713/204107306-31f32d82-86fc-42e5-a233-e7e77a59d6d0.png)
