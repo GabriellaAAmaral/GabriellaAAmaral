@@ -26,3 +26,4 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e 
 <a href="https://www.linkedin.com/in/gabriella-amaral-6a51401a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
+![octocat-1663075776481](https://user-images.githubusercontent.com/104433713/204107306-31f32d82-86fc-42e5-a233-e7e77a59d6d0.png)
