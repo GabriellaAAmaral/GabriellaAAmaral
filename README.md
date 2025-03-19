@@ -1,7 +1,11 @@
 Olá, me chamo Gabriella. 👋
 Bem-vindo(a) ao meu perfil do GitHub! 
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e fazendo cursos livres sobre análise de dados. 
+Sou graduada em Análise e Desenvolvimento de Sistemas pela UNINASSAU e atuo na área de Tecnologia da Informação, com foco em Análise de Dados, SQL e Business Intelligence.
+
+📊 Atualmente, estou aprimorando minhas habilidades em Power BI, Amazon QuickSight e otimização de consultas SQL para análise e extração de dados.
+
+💡 Apaixonada por tecnologia, estou sempre em busca de novos desafios e aprendizados! 
 
 <div align="center">
 <a href="https://github.com/GabriellaAAmaral">
